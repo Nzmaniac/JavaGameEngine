@@ -1,0 +1,78 @@
+# Blender MTL File: 'pine tree.blend'
+# Material Count: 7
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.468038 0.408074
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.057176 0.052354
+Ks 0.500000 0.500000 0.500000
+Ke 0.360000 0.025729 0.023559
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\infin\Documents\hard-wood-floor-texture-solid-hardwood-flooring-berry-stained-color-light-hardwood-floor-texture-hardwood-floor-texture-cinema-4d.jpg
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.023031 0.640000 0.000275
+Ks 0.500000 0.500000 0.500000
+Ke 0.009788 0.272000 0.000117
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\infin\Documents\BNSS0100_22_0354_0001.jpg
+
+newmtl Material.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.052041 0.640000 0.021604
+Ks 0.500000 0.500000 0.500000
+Ke 0.029273 0.360000 0.012152
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\infin\Documents\BNSS0100_22_0354_0001.jpg
+
+newmtl Material.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.041372 0.640000 0.014099
+Ks 0.500000 0.500000 0.500000
+Ke 0.026374 0.408000 0.008988
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\infin\Documents\BNSS0100_22_0354_0001.jpg
+
+newmtl Material.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.014272 0.640000 0.007493
+Ks 0.500000 0.500000 0.500000
+Ke 0.006958 0.312000 0.003653
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\infin\Documents\BNSS0100_22_0354_0001.jpg
+
+newmtl Material.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.023527 0.640000 0.009485
+Ks 0.500000 0.500000 0.500000
+Ke 0.005294 0.144000 0.002134
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\infin\Documents\BNSS0100_22_0354_0001.jpg
